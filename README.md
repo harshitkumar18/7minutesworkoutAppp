@@ -1,9 +1,6 @@
 # 7minutesworkoutAppp
-Exercise App in Kotlin,
-History,
-BMI Calculator,
-12 Exercise,
-Exersice Name Pronounce
+Developed a Workout App for Good Health. This app features a built-in BMI calculator and also displays the user’s
+history. There are 12 exercises in this app, each with a 30-second timer associated with it
 
 ## ScreenShots
 ![resize-17036778261042816895IMG20230907WA0023](https://github.com/harshitkumar18/7minutesworkoutAppp/assets/136173522/35cee4b3-176f-4a82-9f03-0835a47b8c1c)   ![resize-17036778611643241045IMG20230907WA0021](https://github.com/harshitkumar18/7minutesworkoutAppp/assets/136173522/a5160fc3-6a87-4264-b4e7-9d3ef2204f1f)
